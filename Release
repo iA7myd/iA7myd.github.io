@@ -1,0 +1,8 @@
+Origin: iA7myd
+Label: iA7myd
+Suite: stable
+Version: 1.0
+Codename: cydia-ios
+Architectures: iphoneos-arm
+Components: main
+Description: iA7myd Repo
