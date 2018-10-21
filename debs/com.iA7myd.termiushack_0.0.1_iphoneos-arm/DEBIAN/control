@@ -1,0 +1,10 @@
+Package: com.iA7myd.termiushack
+Name: Termius Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Pro Feature for Termius App
+Maintainer: A7med.y
+Author: A7med.y
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 120
