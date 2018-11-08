@@ -1,14 +1,14 @@
 <packageInfo>
-    <bundleId>com.ia7myd.autoraphack</bundleId>
-    <name>AutoRap Hack</name>
+    <bundleId>com.ia7myd.xxx</bundleId>
+    <name>Live Wallpapers Now Hack</name>
     <version>0.0.1</version>
     <descriptions>
         <description>
-            Full Features for AutoRap App
+            Full Features for Live Wallpapers Now App
         </description>
     </descriptions>
     <compatibility>
-        <miniOS>8.0</miniOS>
+        <miniOS>9.0</miniOS>
         <maxiOS>11.4b</maxiOS>
     </compatibility>
     <dependencies>
