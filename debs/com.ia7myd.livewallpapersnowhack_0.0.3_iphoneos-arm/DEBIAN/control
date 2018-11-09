@@ -1,0 +1,11 @@
+Package: com.ia7myd.livewallpapersnowhack
+Name: Live Wallpapers Now Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Full Features for Live Wallpapers Now App
+Maintainer: A7med.y
+Author: A7med.y
+Section: Tweaks
+Version: 0.0.3
+Installed-Size: 120
+Depiction: http://ia7myd.github.io/depictions/?p= com.ia7myd.livewallpapersnowhack

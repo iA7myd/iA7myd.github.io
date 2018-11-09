@@ -1,7 +1,7 @@
 <packageInfo>
     <bundleId>com.ia7myd.livewallpapersnowhack</bundleId>
     <name>Live Wallpapers Now Hack</name>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <descriptions>
         <description>
             Full Features for Live Wallpapers Now App
@@ -16,7 +16,7 @@
     </dependencies>
     <changelog>
         <change>
-            <changeVersion>V0.0.1</changeVersion>
+            <changeVersion>v0.0.1</changeVersion>
             <changeDescription>Initial Release</changeDescription>
         </change>
     </changelog>
