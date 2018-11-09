@@ -7,16 +7,13 @@
 Full Features for Pic Blender App
         </description>
     </descriptions>
-         <screenshot>
-        <images>
-            <picone></picone>
-            <pictow></pictow>
-            <picthree></picthree>
-            <picfoor></picfoor>
-        </images>
-    </screenshot>
+
+    <applink>
+        <appurl>https://itunes.apple.com/us/app/pic-blender-photo-editor/id643931340?mt=8</appurl>
+    </applink>
+
     <compatibility>
-        <miniOS>9.0</miniOS>
+        <miniOS>8.0</miniOS>
         <maxiOS>11.4b</maxiOS>
     </compatibility>
     <dependencies>

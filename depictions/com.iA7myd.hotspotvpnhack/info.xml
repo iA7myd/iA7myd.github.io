@@ -7,9 +7,14 @@
 Full Features for Hotspot VPN App
         </description>
     </descriptions>
+
+    <applink>
+        <appurl>https://itunes.apple.com/us/app/hotspotshield-vpn-wifi-proxy/id443369807?mt=8</appurl>
+    </applink>
+
      <screenshot>
         <images>
-            <picone></picone>
+            <picone>pic/1.png</picone>
             <pictow></pictow>
             <picthree></picthree>
             <picfoor></picfoor>

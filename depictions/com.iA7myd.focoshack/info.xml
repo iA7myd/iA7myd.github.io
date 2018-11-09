@@ -7,16 +7,21 @@
 Full Features for Focos App
         </description>
     </descriptions>
+
+    <applink>
+        <appurl>https://itunes.apple.com/us/app/focos/id1274938524?mt=8</appurl>
+    </applink>
+
      <screenshot>
         <images>
-            <picone></picone>
+            <picone>pic/1.png</picone>
             <pictow></pictow>
             <picthree></picthree>
             <picfoor></picfoor>
         </images>
     </screenshot>
     <compatibility>
-        <miniOS>9.0</miniOS>
+        <miniOS>11.0</miniOS>
         <maxiOS>11.4b</maxiOS>
     </compatibility>
     <dependencies>

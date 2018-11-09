@@ -7,14 +7,11 @@
 Full Features for Termius App
         </description>
     </descriptions>
-         <screenshot>
-        <images>
-            <picone></picone>
-            <pictow></pictow>
-            <picthree></picthree>
-            <picfoor></picfoor>
-        </images>
-    </screenshot>
+
+    <applink>
+        <appurl>https://itunes.apple.com/us/app/termius-ssh-client/id549039908?mt=8</appurl>
+    </applink>
+
     <compatibility>
         <miniOS>9.0</miniOS>
         <maxiOS>11.4b</maxiOS>
