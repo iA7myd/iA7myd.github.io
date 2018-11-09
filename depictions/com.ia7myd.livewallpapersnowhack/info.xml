@@ -7,6 +7,14 @@
 Full Features for Live Wallpapers Now App
         </description>
     </descriptions>
+     <screenshot>
+        <images>
+            <picone></picone>
+            <pictow></pictow>
+            <picthree></picthree>
+            <picfoor></picfoor>
+        </images>
+    </screenshot>
     <compatibility>
         <miniOS>9.0</miniOS>
         <maxiOS>11.4b</maxiOS>

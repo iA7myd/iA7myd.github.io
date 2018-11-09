@@ -1,38 +1,30 @@
 <packageInfo>
-    <bundleId>com.ia7myd.autoraphack</bundleId>
-    <name>AutoRap Hack</name>
+    <bundleId>com.iA7myd.focoshack</bundleId>
+    <name>Focos Hack</name>
     <version>0.0.1</version>
     <descriptions>
         <description>
-            Full Features for AutoRap App
+Full Features for Focos App
         </description>
     </descriptions>
-
-    <applink>
-        <appurl>https://itunes.apple.com/us/app/autorap-by-smule/id524299475?mt=8</appurl>
-    </applink>
-
-    <screenshot>
+     <screenshot>
         <images>
-            <picone>pic/1.png</picone>
+            <picone></picone>
             <pictow></pictow>
             <picthree></picthree>
             <picfoor></picfoor>
         </images>
     </screenshot>
-
     <compatibility>
-<firmware>
-        <miniOS>8.0</miniOS>
+        <miniOS>9.0</miniOS>
         <maxiOS>11.4b</maxiOS>
-</firmware>
     </compatibility>
     <dependencies>
         <dependency>mobilesubstrate</dependency>
     </dependencies>
     <changelog>
         <change>
-            <changeVersion>V0.0.1</changeVersion>
+            <changeVersion>v0.0.1</changeVersion>
             <changeDescription>Initial Release</changeDescription>
         </change>
     </changelog>
