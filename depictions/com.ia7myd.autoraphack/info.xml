@@ -1,39 +1,55 @@
-<packageInfo>
-    <bundleId>com.ia7myd.autoraphack</bundleId>
+<package>
+    <id>com.ia7myd.autoraphack</id>
     <name>AutoRap Hack</name>
     <version>0.0.1</version>
-    <descriptions>
-        <description>
-            Full Features for AutoRap App
-        </description>
-    </descriptions>
-
-    <applink>
-        <appurl>https://itunes.apple.com/us/app/autorap-by-smule/id524299475?mt=8</appurl>
-    </applink>
-
-    <screenshot>
-        <images>
-            <picone>pic/1.png</picone>
-            <pictow></pictow>
-            <picthree></picthree>
-            <picfoor></picfoor>
-        </images>
-    </screenshot>
-
     <compatibility>
-<firmware>
-        <miniOS>8.0</miniOS>
-        <maxiOS>11.4b</maxiOS>
-</firmware>
+        <firmware>
+            <miniOS>8.0</miniOS>
+            <maxiOS>11.4b</maxiOS>
+        </firmware>
     </compatibility>
+
+    <appurls>
+        <appurl>https://itunes.apple.com/us/app/autorap-by-smule/id524299475?mt=8</appurl>
+
+        <themeurl>https://itunes.apple.com/us/app/autorap-by-smule/id524299475?mt=8</themeurl>
+        </appurls>
+
     <dependencies>
         <dependency>mobilesubstrate</dependency>
     </dependencies>
+
+    <shortDescription>Full Features for AutoRap App</shortDescription>
+
+    <descriptionlist>
+        <description>
+            Full Features for AutoRap App
+        </description>
+        <description><![CDATA[
+        You can also have Theme —> <a href="https://google.com">Here</a>
+        ]]>
+        </description>
+    </descriptionlist>
+
+
+    <screenshots>
+        <screenshot>
+            <image>1.png</image>
+        </screenshot>
+    </screenshots>
+
     <changelog>
         <change>
             <changeVersion>V0.0.1</changeVersion>
             <changeDescription>Initial Release</changeDescription>
         </change>
     </changelog>
-</packageInfo>
+
+    <links>
+        <link>
+            <name>Modified By MhsterNice</name>
+            <url>https://twitter.com/Mhster_Nice</url>
+            <iconclass>fa fa-twitter</iconclass>
+        </link>
+    </links>
+</package>
