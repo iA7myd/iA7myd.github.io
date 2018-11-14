@@ -9,10 +9,6 @@
         </firmware>
     </compatibility>
 
-    <appurls>
-        <appurl>https://itunes.apple.com/us/app/autorap-by-smule/id524299475?mt=8</appurl>
-    </appurls>
-
     <dependencies>
         <dependency>mobilesubstrate</dependency>
     </dependencies>
@@ -21,7 +17,7 @@
 
     <descriptionlist>
         <description><![CDATA[
-        Full Features for Infuse App <br/> <br/> You can also have Theme —> <a href="https://itunes.apple.com/us/app/autorap-by-smule/id524299475?mt=8">Download Infuse App</a>
+        Full Features for Infuse App <br/> <br/> <a href="https://itunes.apple.com/us/app/autorap-by-smule/id524299475?mt=8">Download Infuse App</a>
         ]]>
         </description>
     </descriptionlist>
