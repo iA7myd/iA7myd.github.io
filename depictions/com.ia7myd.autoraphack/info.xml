@@ -9,12 +9,6 @@
         </firmware>
     </compatibility>
 
-    <appurls>
-        <appurl>https://itunes.apple.com/us/app/autorap-by-smule/id524299475?mt=8</appurl>
-
-        <themeurl>https://itunes.apple.com/us/app/autorap-by-smule/id524299475?mt=8</themeurl>
-        </appurls>
-
     <dependencies>
         <dependency>mobilesubstrate</dependency>
     </dependencies>
@@ -22,11 +16,8 @@
     <shortDescription>Full Features for AutoRap App</shortDescription>
 
     <descriptionlist>
-        <description>
-            Full Features for AutoRap App
-        </description>
         <description><![CDATA[
-        You can also have Theme —> <a href="https://google.com">Here</a>
+        Full Features for AutoRap App. <br/> <br/> <a href="https://itunes.apple.com/us/app/autorap-by-smule/id524299475?mt=8">Download AutoRap App</a>
         ]]>
         </description>
     </descriptionlist>
@@ -40,14 +31,14 @@
 
     <changelog>
         <change>
-            <changeVersion>V0.0.1</changeVersion>
+            <changeVersion>0.0.1</changeVersion>
             <changeDescription>Initial Release</changeDescription>
         </change>
     </changelog>
 
     <links>
         <link>
-            <name>Modified By MhsterNice</name>
+            <name>Special thanks to MhsterNice for making these wonderful Modified, Click here to follow him on Twitter</name>
             <url>https://twitter.com/Mhster_Nice</url>
             <iconclass>fa fa-twitter</iconclass>
         </link>
