@@ -1,6 +1,6 @@
 <package>
-    <id>com.ia7myd.pixaloophack</id>
-    <name>Pixaloop Hack</name>
+    <id>com.ia7myd.desqueeze</id>
+    <name>Desqueeze Hack (In App)</name>
     <version>0.0.1</version>
     <compatibility>
         <firmware>
@@ -13,11 +13,11 @@
         <dependency>mobilesubstrate</dependency>
     </dependencies>
 
-    <shortDescription>Full Features for Pixaloop App</shortDescription>
+    <shortDescription>Full Features for Betternet App</shortDescription>
 
     <descriptionlist>
         <description><![CDATA[
-        Full Features for Pixaloop App. <br/> <br/> <a href="https://itunes.apple.com/us/app/enlight-pixaloop/id1381206010?mt=8">Download Pixaloop App</a>
+        Full Features for Desqueeze App. <br/> (After install this hack you should be go to purchase place in App and click on purchase button) <br/> <br/> <a href="https://itunes.apple.com/us/app/desqueeze-batch-resizer/id1046809993?mt=8">Download Desqueeze App</a>
         ]]>
         </description>
     </descriptionlist>
