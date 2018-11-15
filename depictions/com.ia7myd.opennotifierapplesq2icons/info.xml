@@ -1,0 +1,44 @@
+<package>
+    <id>com.ia7myd.opennotifierapplesq2icons</id>
+    <name>OpenNotifier Apple Sq2 icons</name>
+    <version>0.0.1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>9.0</miniOS>
+            <maxiOS>11.4b</maxiOS>
+        </firmware>
+    </compatibility>
+
+    <dependencies>
+        <dependency>OpenNotifier 9/10/11</dependency>
+    </dependencies>
+
+    <shortDescription> Some Square icons With circular edges for awesome OpenNotifier 9/10/11 tweak</shortDescription>
+
+    <descriptionlist>
+		<description> Some Square icons With circular edges for awesome OpenNotifier 9/10/11 tweak.
+        </description>
+    </descriptionlist>
+
+
+    <screenshots>
+        <screenshot>
+            <image>1.png</image>
+        </screenshot>
+    </screenshots>
+
+    <changelog>
+        <change>
+            <changeVersion>0.0.1</changeVersion>
+            <changeDescription>Initial Release</changeDescription>
+        </change>
+    </changelog>
+
+    <links>
+        <link>
+            <name>Special thanks to MhsterNice for making these wonderful Modified, Click here to follow him on Twitter</name>
+            <url>https://twitter.com/Mhster_Nice</url>
+            <iconclass>fa fa-twitter</iconclass>
+        </link>
+    </links>
+</package>
