@@ -1,0 +1,40 @@
+<package>
+    <id>com.ia7myd.followtrackhack</id>
+    <name>Follow Track Hack</name>
+    <version>0.0.1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>9.0</miniOS>
+            <maxiOS>11.4b</maxiOS>
+        </firmware>
+    </compatibility>
+
+    <dependencies>
+        <dependency>mobilesubstrate</dependency>
+    </dependencies>
+
+    <shortDescription>Full Features for Follow Track App</shortDescription>
+
+    <descriptionlist>
+        <description><![CDATA[
+        Full Features for Follow Track App. <br/> <br/> <a href="https://itunes.apple.com/us/app/followers-tracker-ins-report/id1271681086?mt=8">Download Follow Track App</a>
+        ]]>
+        </description>
+    </descriptionlist>
+
+
+    <changelog>
+        <change>
+            <changeVersion>0.0.1</changeVersion>
+            <changeDescription>Initial Release</changeDescription>
+        </change>
+    </changelog>
+
+    <links>
+        <link>
+            <name>Special thanks to MhsterNice for making these wonderful Modified, Click here to follow him on Twitter</name>
+            <url>https://twitter.com/Mhster_Nice</url>
+            <iconclass>fa fa-twitter</iconclass>
+        </link>
+    </links>
+</package>
