@@ -1,0 +1,46 @@
+<package>
+    <id>com.ia7myd.subwaysurfinapp</id>
+    <name>Dr. Driving 2 Hack (In App)</name>
+    <version>0.0.1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>8.0</miniOS>
+            <maxiOS>11.4b</maxiOS>
+        </firmware>
+    </compatibility>
+
+    <dependencies>
+        <dependency>mobilesubstrate</dependency>
+    </dependencies>
+
+    <shortDescription>Free Purchase Unlimited of Ruby and Coins for Dr. Driving 2 Game</shortDescription>
+
+    <descriptionlist>
+        <description><![CDATA[
+        Free Purchase Unlimited of Ruby and Coins for Dr. Driving 2 Game. <br/> (After install this hack you should be go to purchase places in App and click on purchase button) <br/> <br/> <a href="https://itunes.apple.com/us/app/dr-driving-2/id1189828120?mt=8">Download Dr. Driving 2 Game</a>
+        ]]>
+        </description>
+    </descriptionlist>
+
+
+    <screenshots>
+        <screenshot>
+            <image>1.png</image>
+        </screenshot>
+    </screenshots>
+
+    <changelog>
+        <change>
+            <changeVersion>0.0.1</changeVersion>
+            <changeDescription>Initial Release</changeDescription>
+        </change>
+    </changelog>
+
+    <links>
+        <link>
+            <name>Special thanks to MhsterNice for making these wonderful Modified, Click here to follow him on Twitter</name>
+            <url>https://twitter.com/Mhster_Nice</url>
+            <iconclass>fa fa-twitter</iconclass>
+        </link>
+    </links>
+</package>
