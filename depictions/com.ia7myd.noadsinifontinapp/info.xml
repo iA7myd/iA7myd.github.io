@@ -1,7 +1,7 @@
 <package>
     <id>com.ia7myd.noadsinifontinapp</id>
     <name>NoAds in iFont (In App)</name>
-    <version>0.0.1-1</version>
+    <version>0.0.2</version>
     <compatibility>
         <firmware>
             <miniOS>11.0</miniOS>
@@ -31,7 +31,7 @@
 
     <changelog>
         <change>
-            <changeVersion>0.0.1-1</changeVersion>
+            <changeVersion>0.0.2</changeVersion>
             <changeDescription>Initial Release</changeDescription>
         </change>
     </changelog>
