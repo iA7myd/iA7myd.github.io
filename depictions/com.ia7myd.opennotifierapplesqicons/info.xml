@@ -30,8 +30,11 @@
     <changelog>
         <change>
             <changeVersion></changeVersion>
-            <changeDescription2>Add 3 icons</changeDescription>
             <changeDescription>Add 2 icons</changeDescription>
+        </change>
+        <change>
+            <changeVersion></changeVersion>
+            <changeDescription>Edit the names of some icons</changeDescription>
         </change>
     </changelog>
 
