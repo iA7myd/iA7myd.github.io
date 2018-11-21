@@ -10,13 +10,13 @@
     </compatibility>
 
     <dependencies>
-        <dependency>OpenNotifier 9/10/11</dependency>
+        <dependency>OpenNotifier</dependency>
     </dependencies>
 
-    <shortDescription> Some Square icons for awesome OpenNotifier 9/10/11 tweak</shortDescription>
+    <shortDescription> Some Square icons for awesome OpenNotifier tweak</shortDescription>
 
     <descriptionlist>
-		<description> Some Square icons for awesome OpenNotifier 9/10/11 tweak.
+		<description> Some Square icons for awesome OpenNotifier tweak.
         </description>
     </descriptionlist>
 
