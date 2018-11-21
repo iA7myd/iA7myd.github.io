@@ -29,6 +29,7 @@
 
     <changelog>
         <change>
+            <changeVersion></changeVersion>
             <changeDescription>Add 2 icons.</changeDescription>
         </change>
     </changelog>
