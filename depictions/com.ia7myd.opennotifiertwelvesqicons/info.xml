@@ -10,14 +10,14 @@
     </compatibility>
 
     <dependencies>
-        <dependency>OpenNotifier</dependency>
+        <dependency>mobilesubstrate</dependency>
     </dependencies>
 
-    <shortDescription>Some Square icons for awesome OpenNotifier tweak</shortDescription>
+    <shortDescription>Some Square icons With circular edges for awesome OpenNotifier tweak</shortDescription>
 
     <descriptionlist>
         <description><![CDATA[
-        Some Square icons for awesome OpenNotifier tweak. <br/> this icons from Twelve Theme, <br/> <a href="cydia://package/com.psprrom.twelve">Git Twelve Theme Now</a>
+        Some Square icons With circular edges for awesome OpenNotifier tweak. <br/> This icons from Twelve Theme. <br/> <a href="cydia://package/com.psprrom.twelve">Git Twelve Theme Now</a>
         ]]>
         </description>
     </descriptionlist>
@@ -32,7 +32,7 @@
     <changelog>
         <change>
             <changeVersion></changeVersion>
-            <changeDescription>Edit the names of some icons</changeDescription>
+            <changeDescription>Initial Release</changeDescription>
         </change>
     </changelog>
 
