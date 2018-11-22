@@ -10,7 +10,7 @@
     </compatibility>
 
     <dependencies>
-        <dependency>mobilesubstrate</dependency>
+        <dependency>opennotifier</dependency>
     </dependencies>
 
     <shortDescription>Some Square icons With circular edges for awesome OpenNotifier tweak</shortDescription>
