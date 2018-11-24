@@ -32,10 +32,6 @@
             <changeVersion></changeVersion>
             <changeDescription>Add 2 icons</changeDescription>
         </change>
-        <change>
-            <changeVersion></changeVersion>
-            <changeDescription>Edit the names of some icons</changeDescription>
-        </change>
     </changelog>
 
     <links>

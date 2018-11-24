@@ -31,7 +31,7 @@
 
     <changelog>
         <change>
-            <changeVersion>0.0.1</changeVersion>
+            <changeVersion></changeVersion>
             <changeDescription>Initial Release</changeDescription>
         </change>
     </changelog>
