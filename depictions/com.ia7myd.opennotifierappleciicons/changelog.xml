@@ -1,4 +1,10 @@
 <changelog>
+	<changes>
+		<version>0.0.6</version>
+		<change>Add 15 icons</change>
+		<change>Remove Lock Screen icons because there is no use of them (Don't worry it's Still appear there)</change>
+		<change>Rewrite names of some icons</change>
+	</changes>
 		<version>0.0.5</version>
 		<change>Add 2 icons</change>
 	</changes>
