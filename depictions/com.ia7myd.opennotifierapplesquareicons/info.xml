@@ -1,7 +1,7 @@
 <package>
-    <id>com.ia7myd.opennotifierapplesqicons</id>
-    <name>OpenNotifier Apple Sq icons</name>
-    <version>0.0.5</version>
+    <id>com.ia7myd.opennotifierapplesquareicons</id>
+    <name>OpenNotifier Apple Square icons</name>
+    <version>0.0.7</version>
     <compatibility>
         <firmware>
             <miniOS>7.0</miniOS>
@@ -30,10 +30,7 @@
     <changelog>
         <change>
             <changeVersion></changeVersion>
-            <changeDescription>Add 15 icons</changeDescription>
-        </change>
-        <change>
-            <changeDescription>Rewrite names of some icons</changeDescription>
+            <changeDescription>Change the package name</changeDescription>
         </change>
     </changelog>
 
