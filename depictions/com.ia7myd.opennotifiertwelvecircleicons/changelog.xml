@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.4</version>
+		<change>Change the package name</change>
+	</changes>
+	<changes>
 		<version>0.0.3</version>
 		<change>Add 2 icons</change>
 	</changes>

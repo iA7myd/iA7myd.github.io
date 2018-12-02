@@ -1,7 +1,7 @@
 <package>
-    <id>com.ia7myd.opennotifiertwelveciicons</id>
-    <name>OpenNotifier Twelve Ci icons</name>
-    <version>0.0.3</version>
+    <id>com.ia7myd.opennotifierapplecircleicons</id>
+    <name>OpenNotifier Apple Circle icons</name>
+    <version>0.0.7</version>
     <compatibility>
         <firmware>
             <miniOS>7.0</miniOS>
@@ -10,15 +10,13 @@
     </compatibility>
 
     <dependencies>
-        <dependency>opennotifier</dependency>
+        <dependency>OpenNotifier</dependency>
     </dependencies>
 
     <shortDescription>Some Circle icons for awesome OpenNotifier tweak</shortDescription>
 
     <descriptionlist>
-        <description><![CDATA[
-        Some Circle icons for awesome OpenNotifier tweak. <br/> <br/> This icons from Twelve Theme <br/> <a href="cydia://package/com.psprrom.twelve">Git Twelve Theme Now</a>
-        ]]>
+		<description> Some Circle icons for awesome OpenNotifier tweak.
         </description>
     </descriptionlist>
 
@@ -32,7 +30,10 @@
     <changelog>
         <change>
             <changeVersion></changeVersion>
-            <changeDescription>Add 2 icons</changeDescription>
+            <changeDescription>Change the package name</changeDescription>
+        </change>
+        <change>
+            <changeDescription>Rewrite names of some icons</changeDescription>
         </change>
     </changelog>
 

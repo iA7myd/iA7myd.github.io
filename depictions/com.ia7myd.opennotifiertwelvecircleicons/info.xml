@@ -1,7 +1,7 @@
 <package>
-    <id>com.ia7myd.opennotifiertwelvesq2icons</id>
-    <name>OpenNotifier Twelve Sq2 icons</name>
-    <version>0.0.3</version>
+    <id>com.ia7myd.opennotifiertwelvecircleicons</id>
+    <name>OpenNotifier Twelve Circle icons</name>
+    <version>0.0.4</version>
     <compatibility>
         <firmware>
             <miniOS>7.0</miniOS>
@@ -13,11 +13,11 @@
         <dependency>opennotifier</dependency>
     </dependencies>
 
-    <shortDescription>Some Square icons With circular edges for awesome OpenNotifier tweak</shortDescription>
+    <shortDescription>Some Circle icons for awesome OpenNotifier tweak</shortDescription>
 
     <descriptionlist>
         <description><![CDATA[
-        Some Square icons With circular edges for awesome OpenNotifier tweak. <br/> <br/> This icons from Twelve Theme <br/> <a href="cydia://package/com.psprrom.twelve">Git Twelve Theme Now</a>
+        Some Circle icons for awesome OpenNotifier tweak. <br/> <br/> This icons from Twelve Theme <br/> <a href="cydia://package/com.psprrom.twelve">Git Twelve Theme Now</a>
         ]]>
         </description>
     </descriptionlist>
@@ -32,7 +32,7 @@
     <changelog>
         <change>
             <changeVersion></changeVersion>
-            <changeDescription>Add 2 icons</changeDescription>
+            <changeDescription>Change the package name</changeDescription>
         </change>
     </changelog>
 
