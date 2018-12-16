@@ -2,6 +2,7 @@
 	<changes>
 		<version>0.0.8</version>
 		<change>Support Notification Badges</change>
+		<change>Rewrite names of all icons</change>
 	</changes>
 	<changes>
 		<version>0.0.7</version>
