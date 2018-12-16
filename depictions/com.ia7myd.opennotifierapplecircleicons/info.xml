@@ -1,7 +1,7 @@
 <package>
     <id>com.ia7myd.opennotifierapplecircleicons</id>
     <name>OpenNotifier Apple Circle icons</name>
-    <version>0.0.7</version>
+    <version>0.0.8</version>
     <compatibility>
         <firmware>
             <miniOS>7.0</miniOS>
@@ -30,7 +30,7 @@
     <changelog>
         <change>
             <changeVersion></changeVersion>
-            <changeDescription>Change the package name</changeDescription>
+            <changeDescription>Support Notification Badges</changeDescription>
         </change>
         <change>
             <changeDescription>Rewrite names of some icons</changeDescription>

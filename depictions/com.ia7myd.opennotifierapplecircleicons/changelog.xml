@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.8</version>
+		<change>Support Notification Badges</change>
+	</changes>
+	<changes>
 		<version>0.0.7</version>
 		<change>Change the package name</change>
 	</changes>
