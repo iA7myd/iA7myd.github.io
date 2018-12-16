@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>0.0.9</version>
+		<change>Support Notification Badges</change>
+		<change>Fix issues</change>
+	</changes>
+	<changes>
 		<version>0.0.8</version>
 		<change>Support Notification Badges</change>
 		<change>Rewrite names of all icons</change>
