@@ -30,7 +30,6 @@
     <changelog>
         <change>
             <changeVersion></changeVersion>
-        <change>
             <changeDescription>Support Look Screen</changeDescription>
         </change>
     </changelog>
