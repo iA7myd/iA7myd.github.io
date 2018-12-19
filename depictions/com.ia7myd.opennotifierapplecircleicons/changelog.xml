@@ -1,8 +1,11 @@
 <changelog>
 	<changes>
+		<version>0.1.1</version>
+		<change>Support Look Screen</change>
+	</changes>
+	<changes>
 		<version>0.1.0</version>
 		<change>Make Count1 icons smaller</change>
-		<change>Support Look Screen</change>
 	</changes>
 	<changes>
 		<version>0.0.9</version>
